@@ -6,6 +6,8 @@ authors = ["Offchain Labs"]
 license = "MIT OR Apache-2.0"
 homepage = "https://github.com/OffchainLabs/stylus-sdk-bf"
 repository = "https://github.com/OffchainLabs/stylus-sdk-bf"
+description = "Brainfuck support for Arbitrum Stylus"
+keywords = ["ethereum", "arbitrum", "stylus", "brainfuck"]
 
 [dependencies]
 eyre = "0.6.5"
