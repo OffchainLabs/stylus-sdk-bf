@@ -10,7 +10,7 @@ use std::{
 use structopt::StructOpt;
 
 #[derive(StructOpt)]
-#[structopt(name = "arbitrator-prover")]
+#[structopt(name = "bf2wasm")]
 struct Opts {
     input: PathBuf,
     #[structopt(short = "o", long)]
