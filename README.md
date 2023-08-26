@@ -39,6 +39,17 @@ For better or worse, this repo includes a Bf-to-WebAssembly compiler, which allo
 [hello]: https://tio.run/##HYpBCoAwEAMftGxeEPKR0oMWCiJ4EHz/mnYOQ0hyvsf1zG/cVdEkpbItGZJd6oIzFEBEQAKtVXnfVW5An/yq@gE
 [Turing]: https://en.wikipedia.org/wiki/Turing_machine
 
+## Usage
+
+To invoke the compiler, run
+```sh
+cargo run <input.b> -o <output.wat>
+```
+
+To upload the `.wat` to a Stylus-enabled Arbitrum chain, see [`cargo stylus`][cargo].
+
+[cargo]: https://github.com/OffchainLabs/stylus-sdk-bf
+
 ## Why does this exist?
 
 Though seemingly just for fun, we hope this repo will be of educational value to framework developers. Creating Stylus SDKs for new languages is surprisingly straightforward, and uses the same building blocks seen in the generated `.wat` files this Bf compiler produces. One can even deploy hand-written `.wat` files using the imports seen in [`prelude.wat`][prelude];
