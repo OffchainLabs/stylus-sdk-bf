@@ -20,7 +20,7 @@
 +[>>>->-[>->----<<<]>>]>.---.>+..+++.>>.<.>>---.<<<.+++.------.<-.>>+.
 ```
 
-The 8 symbols seen in the above constitute the entirety of the Bf programming language. Because their operations simulate a [Turing Machine][Turing], Bf can be used to write any computable function. That is, anything you can do in C, Rust, etc, you can do in Bf -- if you can figure out how to write it!
+The 8 symbols seen in the above constitute the entirety of the Bf programming language. Because their operations simulate a [Turing Machine][Turing], Bf can be used to write any computable function. That is, anything you can do in C, Rust, etc, you can do in Bf &mdash; if you can figure out how to write it!
 
 For better or worse, this repo includes a Bf-to-WebAssembly compiler, which allows Bf programs to run at near-native speeds on Arbitrum chains. The symbols are interpreted as follows.
 
@@ -73,7 +73,7 @@ All it takes is a WebAssembly-enabled compiler and a few imports, the full list 
 | [C/C++ SDK][C]   | Cryptography and algorithms | Apache 2.0 or MIT |
 | [Bf SDK][Bf]     | Educational                 | Apache 2.0 or MIT |
 
-Want to write your own? [Join us in the `#stylus` channel on discord][discord]!
+Want to write your own? Join us in the `#stylus` channel on [discord][discord]!
 
 [prelude]: https://github.com/OffchainLabs/stylus-sdk-bf/blob/stylus/src/prelude.wat
 [hostios]: TODO
