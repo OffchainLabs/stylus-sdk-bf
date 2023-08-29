@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://arbitrum.io/">
-    <img src="https://arbitrum.io/wp-content/uploads/2023/08/stylus-thumbnail.svg" alt="Logo" width="40%" height="">
+    <img src="https://arbitrum.io/wp-content/uploads/2023/08/stylus-thumbnail.svg" alt="Logo" width="40%">
   </a>
 
   <h3 align="center">The Stylus SDK</h3>
