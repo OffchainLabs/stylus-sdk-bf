@@ -7,7 +7,7 @@
   <h3 align="center">The Stylus SDK</h3>
 
   <p align="center">
-    <a href="https://developer.arbitrum.io/"><strong>Bf contracts on Arbitrum »</strong></a>
+    <a href="https://docs.arbitrum.io/stylus/stylus-gentle-introduction"><strong>Bf contracts on Arbitrum »</strong></a>
     <br />
   </p>
 </p>
@@ -76,7 +76,7 @@ All it takes is a WebAssembly-enabled compiler and a few imports, the full list 
 Want to write your own? Join us in the `#stylus` channel on [discord][discord]!
 
 [prelude]: https://github.com/OffchainLabs/stylus-sdk-bf/blob/stylus/src/prelude.wat
-[hostios]: TODO
+[hostios]: https://github.com/OffchainLabs/stylus-sdk-rs/blob/stylus/stylus-sdk/src/hostio.rs
 
 [Rust]: https://github.com/OffchainLabs/stylus-sdk-rs
 [C]: https://github.com/OffchainLabs/stylus-sdk-c
