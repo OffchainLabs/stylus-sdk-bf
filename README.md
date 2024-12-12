@@ -7,7 +7,7 @@
   <h3 align="center">The Stylus SDK</h3>
 
   <p align="center">
-    <a href="https://docs.arbitrum.io/stylus/stylus-gentle-introduction"><strong>Bf contracts on Arbitrum »</strong></a>
+    <a href="https://docs.arbitrum.io/stylus/gentle-introduction"><strong>Bf contracts on Arbitrum »</strong></a>
     <br />
   </p>
 </p>
